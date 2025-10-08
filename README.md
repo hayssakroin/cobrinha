@@ -10,8 +10,6 @@ O jogo da cobrinha consiste em controlar uma cobrinha que se movimenta pela tela
 
 O jogador controla a direção da cobrinha (para cima, baixo, esquerda ou direita) usando o teclado ou toques na tela. Se a cobrinha bater nas bordas ou em si mesma, o jogo termina.
 
-Como desenvolvedor, criei uma lógica que detecta colisões, sorteia a posição das frutas de forma aleatória e aumenta o tamanho da cobrinha conforme o progresso. Também incluí um sistema de pontuação que mostra quantas frutas foram comidas.
-
 ---
 
 ## 🛠️ Linguagens e Ferramentas Utilizadas
@@ -31,9 +29,9 @@ Essas três linguagens juntas permitem que o jogo rode direto no navegador, sem 
 
 Você pode jogar o jogo da cobrinha de forma simples:
 
-1. **Acesse o link do jogo** (fornecido pelo desenvolvedor).
-2. O jogo vai abrir direto no seu navegador, seja no computador ou no celular.
-3. Use as **setas do teclado** ou os **botões na tela** para controlar a cobrinha.
+1. **Acesse o link do site WinxGames**
+2. O jogo vai abrir direto no seu navegador (computador)
+3. Use as **setas do teclado** 
 4. Tente comer o máximo de frutas sem bater nas bordas ou em si mesma!
 
 Não é necessário instalar nenhum programa ou aplicativo. Basta ter acesso à internet e abrir o link.
