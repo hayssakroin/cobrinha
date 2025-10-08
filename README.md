@@ -5,9 +5,7 @@ Este projeto é uma versão digital do clássico jogo da cobrinha, desenvolvido 
 ---
 
 ## 🧠 Lógica de Funcionamento
-
-O jogo da cobrinha consiste em controlar uma cobrinha que se movimenta pela tela, com o objetivo de comer o máximo de frutas possível. Cada vez que a cobrinha come uma fruta, ela cresce e o jogo fica mais difícil, pois há menos espaço para se movimentar.
-
+O jogo consiste em comandar uma cobrinha que se movimenta pela tela, com o objtivo de comer o máximo de frutas. Cada vez que a cobrinha come  a fruta, ela cresce.
 O jogador controla a direção da cobrinha (para cima, baixo, esquerda ou direita) usando o teclado ou toques na tela. Se a cobrinha bater nas bordas ou em si mesma, o jogo termina.
 
 ---
